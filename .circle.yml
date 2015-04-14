@@ -1,0 +1,6 @@
+machine:
+  java:
+    version: oraclejdk8
+  environment:
+    MAVEN_OPTS: -Xmx512m -XX:MaxPermSize=128m
+
